@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Goyal"
+  given-names: "Jatinder"
+  orcid: "https://orcid.org/0000-0001-7448-8617"
+title: "Hanson's Model in Frequency Domain - Tonal Noise of Rotors in Uniform Inflow"
+version: 3.0
+doi: 10.4121/7da5aa45-e44b-4fa3-9407-8bf61e835d99
+date-released: 2023-11-21
+url: "https://gitlab.tudelft.nl/jatindergoyal/hanson-model-helicoidal-theory"
