@@ -20,7 +20,3 @@ hanson_comparison -> realizza un confronto tra i calcoli Hanson e Gutin, in term
 hanson_csv_generation -> consente di generare comodamente i file csv di input per il tool Hanson, nel formato richiesto
                          dalla sua modalità di raccolta dati. I file vengon generati nella cartella esterna hanson_csv_repository.
 
-
-**Nota**: riguardo la sottostima di Gutin del thickness noise, la invito a prendere visione dei risultati dello script 
-"thickness_versus_loading", dove è evidente un off-set al ribasso del rumore tonale rispetto ai risultati del modello 
-a fedeltà più alta. Questa sottostima è presente anche nel confronto con Hanson, lanciando "hanson-comparison".
